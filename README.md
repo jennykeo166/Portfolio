@@ -2,7 +2,7 @@
 
 Welcome to my **Bioinformatics Portfolio** 👩‍💻  
 
-This repository showcases my independent projects in **RNA-Seq analysis and differential gene expression** using **R**. Each project is organized into its own folder with R scripts, results, and documentation.  
+This repository showcases my independent projects in RNA-Seq analysis, differential gene expression, and machine learning using R. Each project is organized into its own folder with R scripts, results, and documentation.
 
 ## 📂 Projects
 - **01 Gene Expression (Exploratory Analysis)**  
